@@ -2,7 +2,7 @@
 
 A comprehensive, production-ready web application for managing hospital operations, patient care, appointments, and medical records with role-based access control.
 
-**Live Demo:** [https://hospital-management-system.onrender.com](https://hospital-management-system.onrender.com)
+**Live Demo:** [https://hms-etvm.onrender.com/](https://hms-etvm.onrender.com/)
 
 ---
 
